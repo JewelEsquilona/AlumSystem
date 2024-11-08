@@ -1,0 +1,6 @@
+Student Number,Last Name,First Name,Middle Name,College,Department,Section,Year Graduated,Contact Number,Personal Email,Employment,Employment Status,Present Occupation,Name of Employer,Address of Employer,Number of Years in Present Employer,Type of Employer,Major Line of Business
+001,Smith,John,A.,CITCS,BSCS,CS4A,2024,09123456789,john.smith@email.com,Employed,Regular/Permanent,Software Engineer,Tech Solutions,123 Tech Lane,2,Private,Information Technology
+002,Johnson,Mary,B.,CITCS,BSIT,IT4B,2025,09234567890,mary.johnson@email.com,Self-Employed,Independent,Freelance Web Developer,Self-Employed,456 Freelancer Ave,1,Self-Employed,Web Development
+003,Williams,James,C.,CAS,MASCOM,MC4C,2024,09345678901,james.williams@email.com,Employed,Contractual,Marketing Associate,Ad Agency,789 Marketing Blvd,2,Private,Advertising
+004,Brown,Patricia,D.,CITCS,ACT,ACT4A,2025,09456789012,patricia.brown@email.com,Employed,Regular/Permanent,IT Support Specialist,Global Tech,3,Private,Information Technology
+005,Jones,Michael,E.,CAS,PSYCH,PS4D,2024,09567890123,michael.jones@email.com,Employed,Regular/Permanent,Clinical Psychologist,Health Services,321 Wellness Way,1,Private,Healthcare
